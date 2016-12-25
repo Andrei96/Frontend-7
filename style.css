@@ -1,0 +1,21 @@
+div.block1,
+div.block2,
+div.block3 {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+div.block2 {background-color: blue;}
+div.block3 {background-color: yellow;}
+
+
+@media all {
+
+}
+
+
+
+
